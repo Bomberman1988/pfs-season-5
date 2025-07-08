@@ -1,0 +1,31 @@
+{
+  "id": "pfs-season-5",
+  "title": "PFS (Season 5)",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12",
+    "maximum": "13"
+  },
+  "packs": [
+    {
+      "name": "pfs-season-5",
+      "label": "PFS (Season 5)",
+      "path": "packs/pfs-season-5",
+      "type": "Adventure",
+      "system": "pf2e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    }
+  ],
+  "authors": [
+    {
+      "name": "Bomberman",
+      "email": "linc.r1988@gmail.com",
+      "discord": "bomberman1988",
+      "flags": {}
+    }
+  ]
+}
